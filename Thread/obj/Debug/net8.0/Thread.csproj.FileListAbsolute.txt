@@ -1,0 +1,15 @@
+/Users/changwoomin/Csharp/Thread/bin/Debug/net8.0/Thread
+/Users/changwoomin/Csharp/Thread/bin/Debug/net8.0/Thread.deps.json
+/Users/changwoomin/Csharp/Thread/bin/Debug/net8.0/Thread.runtimeconfig.json
+/Users/changwoomin/Csharp/Thread/bin/Debug/net8.0/Thread.dll
+/Users/changwoomin/Csharp/Thread/bin/Debug/net8.0/Thread.pdb
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.AssemblyInfoInputs.cache
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.AssemblyInfo.cs
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.csproj.CoreCompileInputs.cache
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.sourcelink.json
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.dll
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/refint/Thread.dll
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.pdb
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/Thread.genruntimeconfig.cache
+/Users/changwoomin/Csharp/Thread/obj/Debug/net8.0/ref/Thread.dll
